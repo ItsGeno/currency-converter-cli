@@ -8,7 +8,7 @@ A command-line tool that converts an amount between currencies using live exchan
 -   Clear error messages for invalid input and connection problems
 
 #   Requirements
--   Python 3.11+ (Tested on 3.11)
+-   Python 3.11+ (Tested on 3.15)
 
 ##  Installation
 
